@@ -1,0 +1,1 @@
+console.log('Magic Johnson is the best Laker of all time');
