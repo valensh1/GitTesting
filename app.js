@@ -1,1 +1,1 @@
-console.log('Magic Johnson is the best Laker of all time');
+console.log('Kobe Bryant is the best Laker of all time');
